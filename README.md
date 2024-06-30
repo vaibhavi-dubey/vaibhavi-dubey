@@ -1,6 +1,10 @@
 <h1 align="center">Hi,I'm Vaibhavi Dubey</h1>
 <h3 align="center">Coding Enthusiast| Passionate about Algorithms & Web Development</h3>
 
+- 🔭 I’m currently pursuing Computer Science **DocMinimizer**
+
+- Currently Learning **Artificial Intelligence & Machine Leraning**
+
 - 📫 How to reach me **vaibhavidubey07@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1brToMPM5sVrql5skDkKG2wGKb4fJJXWh/view](https://drive.google.com/file/d/1brToMPM5sVrql5skDkKG2wGKb4fJJXWh/view)
