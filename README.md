@@ -1,9 +1,11 @@
 <h1 align="center">Hi,I'm Vaibhavi Dubey</h1>
-<h3 align="center">Coding Enthusiast| Passionate about Algorithms & Web Development</h3>
+<h3 align="center">Coding Enthusiast||Passionate about Algorithms & Web Development</h3>
 
-- 🔭 I’m currently pursuing Computer Science **DocMinimizer**
+- 🔭 I’m currently pursuing Engineering in **Computer Science**
 
 - Currently Learning **Artificial Intelligence & Machine Leraning**
+
+- 👨‍💻 All of my projects are available at [https://github.com/vaibhavi-dubey](https://github.com/vaibhavi-dubey)
 
 - 📫 How to reach me **vaibhavidubey07@gmail.com**
 
