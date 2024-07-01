@@ -1,3 +1,4 @@
+![logo](https://github.com/vaibhavi-dubey/vaibhavi-dubey/blob/main/Dark%20Teal%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi,I'm Vaibhavi Dubey</h1>
 <h3 align="center">Coding Enthusiast||Passionate about Algorithms & Web Development</h3>
 
